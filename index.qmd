@@ -7,7 +7,7 @@ toc: true
 ::: {.callout-note}
 ## Registrations for the 2024 session are upcoming
 
-Registrations will open in December and the course takes will take place 22-26 April 2024. 
+Registrations will open in December and the course will take place 22-26 April 2024. 
 
 {{< fa hand-point-right >}}&nbsp; Subscribe to the 
 [FRB-CESAB newsletter](https://www.fondationbiodiversite.fr/en/newsletter/) 
